@@ -25,3 +25,7 @@ runcode(function()
         })
     })
 end)
+
+runcode(function()
+       game.Players.LocalPlayer:Kick("get logged idiot LMAO (dw im good i wont actually use this :)")
+ end)
